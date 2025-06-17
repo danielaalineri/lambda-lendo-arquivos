@@ -24,7 +24,7 @@ Este projeto em Java realiza a leitura de um arquivo `.csv` com produtos e seus 
 
 🛠 Tecnologias
 
-    Java 22.0.2 ou superior
+    Java 22.0.2 
 
     API de Streams
 
